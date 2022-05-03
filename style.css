@@ -64,7 +64,7 @@ header {
 }
 
 #banner{
-  background: linear-gradient(rgba(0,0,0,0.5),#ff007f),url(C:/Users/kraie/Downloads/hair%202.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5),#ff007f),url(./images/hair2.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
